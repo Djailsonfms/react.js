@@ -1,6 +1,6 @@
 import Menu from './components/menu';
 import Router from './router';
-import Footer from './components/footer/footer'
+import Footer from '../components/footer/footer'
 
 import { BrowserRouter} from 'react-router-dom';
 
